@@ -53,10 +53,10 @@
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.145 0 0);
   /* Primary: Soft sage green (#87A96B) */
-  --primary: #87A96B;
+  --primary: #87a96b;
   --primary-foreground: oklch(0.985 0 0);
   /* Secondary: Pastel purple (#B19CD9) */
-  --secondary: #B19CD9;
+  --secondary: #b19cd9;
   --secondary-foreground: oklch(0.145 0 0);
   --muted: oklch(0.97 0 0);
   --muted-foreground: oklch(0.556 0 0);

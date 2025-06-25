@@ -17,7 +17,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "ZenCursor",
-  description: "Code your way to inner peace while building the perfect yoga business",
+  description:
+    "Code your way to inner peace while building the perfect yoga business",
 };
 
 export default function RootLayout({
