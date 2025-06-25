@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "holden-start",
-  description: "An opinionated starter for new web projects",
+  title: "ZenCursor",
+  description: "Code your way to inner peace while building the perfect yoga business",
 };
 
 export default function RootLayout({
